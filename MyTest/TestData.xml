@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<DataDetails>  
+  <Data>
+      <Row expression = "   " expected=""/>
+      <Row expression = "1 + (1 + 1)" expected="1+(1+1)"/>
+      <Row expression = "( 1 + 1 ) * 1" expected="(1+1)*1"/>
+      <Row expression = "m1 + 1" expected="1m+1"/>
+      <Row expression = "p1 + 1" expected="1p+1"/>
+  </Data>
+</DataDetails>
